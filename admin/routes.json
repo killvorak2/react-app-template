@@ -1,6 +1,10 @@
 {
-  "admin.app.example": {
-    "component": "adminExample",
-    "path": "/admin/app/iotraining"
+  "admin.app.leads": {
+    "component": "adminLeads",
+    "path": "/admin/app/leads"
+  },
+  "admin.app.desempenho": {
+    "component": "adminDesempenho",
+    "path": "/admin/app/desempenho"
   }
 }

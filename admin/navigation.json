@@ -1,5 +1,14 @@
 {
-  "section": "orders",
-  "titleId": "admin-example.navigation.label",
-  "path": "/admin/iotraining"
+  "section": "analytics",
+  "titleId": "admin-gerenciamento.navigation.label",
+  "subSectionItems": [
+    {
+      "labelId": "admin-leads.navigation.label",
+      "path": "/admin/leads"
+    },
+    {
+      "labelId": "admin-desempenho.navigation.label",
+      "path": "/admin/desempenho"
+    }
+  ]
 }

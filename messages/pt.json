@@ -1,4 +1,8 @@
 {
-  "admin/test": "teste",
-  "store/test": "teste"
+  "admin-gerenciamento.navigation.label": "Gerenciamento de leads",
+  "admin-gerenciamento.navigation.search.kws": "gerenciamento, gestão, lead, desempenho",
+  "admin-leads.navigation.label": "Cadastro de leads",
+  "admin-leads.navigation.search.kws": "cadastro, leads, lead",
+  "admin-desempenho.navigation.label": "Desempenho de leads",
+  "admin-desempenho.navigation.search.kws": "desempenho, leads, lead"
 }
